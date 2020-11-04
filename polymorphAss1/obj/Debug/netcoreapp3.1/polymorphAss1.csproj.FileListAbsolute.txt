@@ -1,0 +1,11 @@
+C:\codebitacademyfolder\C#\LabTask 6\polymorphAss1\obj\Debug\netcoreapp3.1\polymorphAss1.csprojAssemblyReference.cache
+C:\codebitacademyfolder\C#\LabTask 6\polymorphAss1\obj\Debug\netcoreapp3.1\polymorphAss1.AssemblyInfoInputs.cache
+C:\codebitacademyfolder\C#\LabTask 6\polymorphAss1\obj\Debug\netcoreapp3.1\polymorphAss1.AssemblyInfo.cs
+C:\codebitacademyfolder\C#\LabTask 6\polymorphAss1\bin\Debug\netcoreapp3.1\polymorphAss1.exe
+C:\codebitacademyfolder\C#\LabTask 6\polymorphAss1\bin\Debug\netcoreapp3.1\polymorphAss1.deps.json
+C:\codebitacademyfolder\C#\LabTask 6\polymorphAss1\bin\Debug\netcoreapp3.1\polymorphAss1.runtimeconfig.json
+C:\codebitacademyfolder\C#\LabTask 6\polymorphAss1\bin\Debug\netcoreapp3.1\polymorphAss1.runtimeconfig.dev.json
+C:\codebitacademyfolder\C#\LabTask 6\polymorphAss1\bin\Debug\netcoreapp3.1\polymorphAss1.dll
+C:\codebitacademyfolder\C#\LabTask 6\polymorphAss1\bin\Debug\netcoreapp3.1\polymorphAss1.pdb
+C:\codebitacademyfolder\C#\LabTask 6\polymorphAss1\obj\Debug\netcoreapp3.1\polymorphAss1.dll
+C:\codebitacademyfolder\C#\LabTask 6\polymorphAss1\obj\Debug\netcoreapp3.1\polymorphAss1.pdb
